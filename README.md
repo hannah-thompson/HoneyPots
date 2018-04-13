@@ -12,7 +12,7 @@ The main hardships of the project came in troubleshooting the set up. For exampl
 
 ## Summary of Attack Data
 In just 3 hours of running, hundreds of attack were done on the honeypot. These attacks came from all over including countries such as Brazil, Japan, China, and Russia. They were all detected through packet capture on the honeypot, as seen in the image below.
-![](attacks.report)
+![](attacks.report.png)
 
 ## Unresolved Questions
 While I understand the point of the honeypot, I still have questions about the attacks we picked up. For example, are these real people that we are monitoring? Are there really that many people looking for attack points, or was it part of a simulation?
